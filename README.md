@@ -1,103 +1,75 @@
-# $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+# $\color{red}{Welcome} \space \color{green}{To} \space \color{blue}{My GITHUB}$
 
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+> This repository contains various projects and code samples that demonstrate my skills and interests in software development.
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> Explore different branches to see the evolution of projects and additional features.
 
 > [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+> Please follow the contributing guidelines if you want to contribute to any project.
 
 > [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
+> Some projects may contain experimental code. Use them at your own risk.
 
 > [!CAUTION]
-> Negative potential consequences of an action.
+> Ensure you have the necessary dependencies installed before running any project.
 
+## Introduction
 
-<p style='color:red'>This is some red text.</p>
+Hello! I'm a passionate Software Developer with experience in building scalable web applications and a keen interest in exploring new technologies. This GitHub repository showcases my projects and contributions to the open-source community.
+
+### Projects
+
+#### Project Management Tool
+
+- 🚀 **Description:** A full-stack project management tool designed to streamline team collaboration.
+- 💡 **Technologies:** JavaScript, TypeScript, React, Node.js, GraphQL
+- 🌟 **Features:** Task management, real-time collaboration, reporting tools
+
+#### AI/ML Experimentation
+
+- 🔍 **Description:** A collection of AI/ML models and experiments.
+- 💡 **Technologies:** Python, TensorFlow, PyTorch
+- 🌟 **Features:** Image classification, Natural Language Processing, Predictive analytics
+
+#### Blockchain Explorer
+
+- 🔍 **Description:** A blockchain explorer to visualize and track transactions.
+- 💡 **Technologies:** JavaScript, Node.js, Express, MongoDB
+- 🌟 **Features:** Transaction history, network stats, address tracking
+
+## Skills
+
+- 💻 **Languages:** JavaScript, TypeScript, Python, SQL
+- 🌐 **Frameworks:** React, Node.js, Express, GraphQL
+- ☁️ **Cloud:** AWS, Azure, Google Cloud
+- 🛠️ **Tools:** Git, Docker, Kubernetes
+
+## Contact
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NilkanthGraphics).
+
+## Badges
+
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/yourusername)
+[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://yourusername.github.io)
+[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/yourproject/latest)
+[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/yourproject)
+[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/yourproject)
+
+## Sample Code
+
+<p style="color:red">This is some red text.</p>
 <font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>
+These are <b style="color:red">red words</b>
 
-
-\textcolor{declared-color}{text}
-$\color{green}{test}$
-## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
-## $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
-# ${This\ is\ a\ {\color{red}Big}}\ Title$
-
-![](https://img.shields.io/static/v1?label=&message=Ааи&color=green)
-
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
-[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
-[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
-[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
-
-![google](https://user-images.githubusercontent.com/000/000-aaa.svg)
-
-<img height="100px" src="https://user-images.githubusercontent.com/000/000-aaa.svg" alt=""/
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
-    <text x="0" y="15" fill="#4285f4">G</text>
-    <text x="12" y="15" fill="#ea4335">o</text>
-    <text x="21" y="15" fill="#fbbc05">o</text>
-    <text x="30" y="15" fill="#4285f4">g</text>
-    <text x="40" y="15" fill="#389738">l</text>
-    <text x="45" y="15" fill="#ea4335">e</text>
-</svg>
-
-$\color{lightblue}{\textrm{Red Nimetaga 3 kõige suuremat pilveteenuste pakkujat}}$
-
-#rgb[Text using 3 chars notation (red = f00)]
-#rrggbb[Text using 6 chars notation (red = ff0000)]
-#aarrggbb[Text using 8 chars notation (red = ffff0000)]
-
-<!-- MARKDOWN THEME -->
-# $\textsf{\color{#f5750e}{f5750e}}$
-
-## $\textsf{\color{#f48522}{f48522}}$
-
-### $\textsf{\color{#326a95}{326a95}}$
-
-#### $\textsf{\color{#18afd3}{18afd3}}$
-
-##### $\textsf{\color{#5ec3d5}{5ec3d5}}$
-
-
-# $\textsf{\color{#f5750e}{Introduction}}$ 
-
-Some introduction text.
-
-### $\textsf{\color{#f48522}{Phase 1.}}$
-
-Some phase 1 text.
-
-#### $\textsf{\color{#326a95}{Section A.}}$  
-
-Some section a text.
-
-
-![SVG](https://server.powerupstudio.eu/svg?c=%3Csvg%20width%3D%22100%22%20height%3D%2250%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctext%20x%3D%2210%22%20y%3D%2230%22%20fill%3D%22green%22%20font-family%3D%22Arial%22%3EGreen%3C%2Ftext%3E%3C%2Fsvg%3E)
-
-- 👨‍💻 Software Developer passionate about building scalable web applications and exploring new technologies.
-
-- 💡 Skilled in JavaScript, TypeScript, React, Node.js, and GraphQL.
-
-- 🚀 Currently developing a full-stack project management tool to streamline team collaboration.
-
-- 🔍 Interested in AI/ML, blockchain technology, and contributing to open-source projects.
-
-- 🌟 Contributor to several open-source libraries in the JavaScript ecosystem.
-
-- 📚 Avid reader, coffee enthusiast, and always curious about the latest tech trends.
-
-- 👋 Feel free to connect with me or check out my repositories!
-
-> fff
-
-<!---
-NilkanthGraphics/NilkanthGraphics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```html
+<div style="color:red; background:lightgrey">
+<code>
+I want to have this text in red on grey.
+</code>
+</div>
